@@ -1,4 +1,4 @@
-# Distribution / packaging
+# Distribution / packaging 忽略文件
 __pycache__/
 .idea
 env/
